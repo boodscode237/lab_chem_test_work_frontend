@@ -2,6 +2,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [THE VIDEO](https://github.com/boodscode237/lab_chem_test_work_frontend/blob/ed88f9157050379e7d0b5d06e93bef3dac20f825/Screencast%20from%2026.10.2023%2020%3A29%3A34.webm)
 
 ## Available Scripts
 
